@@ -10,6 +10,8 @@ def valid_move?(board, index)
   # index.between?(0,8) && !position_taken?(board, index)
 end
 
+# my passing code below
+
 # def valid_move?(board, index)
 #   move = nil
 #   if position_taken?(board, index)
